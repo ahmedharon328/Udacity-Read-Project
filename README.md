@@ -9,7 +9,7 @@ To run this application, you will need the following:
 
 * Node.js
 * The command line
-* NPM
+* NPM Or Yarn
 
 
 ## How to use
