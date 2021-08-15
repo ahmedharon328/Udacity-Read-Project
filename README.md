@@ -14,7 +14,7 @@ To run this application, you will need the following:
 
 ## How to use
 
-*Once loaded you may choose which shelf to send a book to by clicking on the green circle with a down arrow of any book.
+Once loaded you may choose which shelf to send a book to by clicking on the green circle with a down arrow of any book.
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included <a href="https://jasmine.github.io/">Jasmine</a> and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
 
 ### Choosing which shelf to send a book to
